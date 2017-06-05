@@ -36,10 +36,8 @@ body {
     text-align:center;
     border:0;
 }
-
-/* Portrait layout (default) */
 .app {
-    text-align:center;                                   /* offset horizontal: half of text area width */
+    text-align:center;
 }
 
 h1 {
